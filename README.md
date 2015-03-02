@@ -1,7 +1,7 @@
 California Vaccine Data
 =====
 
-The California Department of Public Health publishes [data](http://www.cdph.ca.gov/programs/immunize/pages/immunizationlevels.aspx) on the vaccination levels for child care centers, kindergarten students and seventh grade students. These are the scripts that TIME used to collate the data for [these infographics](http://time.com/3728434/graphic-which-parents-arent-vaccinating-their-kids-in-california).
+The California Department of Public Health publishes [data](http://www.cdph.ca.gov/programs/immunize/pages/immunizationlevels.aspx) on the vaccination levels for child care centers, kindergarten students and seventh grade students. These are the scripts that TIME used to collate the data for [these infographics](http://time.com/3728434/california-vaccination-rates/).
 
 ##Can I use this however I want?
 
