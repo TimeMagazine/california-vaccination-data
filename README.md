@@ -17,13 +17,13 @@ Great! The Excel files in `/raw/` are unmodified from the source. The CSV files 
 
 ###Data source files
 
-+**2014-15 CA Kindergarten Data.csv**: The [vaccination data](http://www.cdph.ca.gov/programs/immunize/pages/immunizationlevels.aspx) for all California kindergarten students.
++ **2014-15 CA Kindergarten Data.csv**: The [vaccination data](http://www.cdph.ca.gov/programs/immunize/pages/immunizationlevels.aspx) for all California kindergarten students.
 
-+**pubschls.csv**: The [location data](http://www.cde.ca.gov/ds/si/ds/fspubschls.asp) for every public school in California
++ **pubschls.csv**: The [location data](http://www.cde.ca.gov/ds/si/ds/fspubschls.asp) for every public school in California
 
-+**privateschools1314.csv**: The [location data](http://www.cde.ca.gov/ds/si/ps/) for private schools
++ **privateschools1314.csv**: The [location data](http://www.cde.ca.gov/ds/si/ps/) for private schools
 
-+**frpm1314.csv**: Free and reduced meal counts from [California DoE](http://www.cde.ca.gov/ds/sd/sd/filessp.asp)
++ **frpm1314.csv**: Free and reduced meal counts from [California DoE](http://www.cde.ca.gov/ds/sd/sd/filessp.asp)
 
 ###Building from scratch
 
