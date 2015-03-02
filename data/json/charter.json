@@ -1,0 +1,16 @@
+[
+  {
+    "classification": "Non-charter",
+    "schools": 5067,
+    "students": 454621,
+    "personal_belief_exemption": 8047,
+    "rate": 0.017700458183849844
+  },
+  {
+    "classification": "Charter",
+    "schools": 577,
+    "students": 38977,
+    "personal_belief_exemption": 3246,
+    "rate": 0.08327988300792775
+  }
+]

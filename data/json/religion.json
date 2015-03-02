@@ -1,0 +1,128 @@
+[
+  {
+    "classification": "Roman Catholic",
+    "schools": 476,
+    "students": 13821,
+    "personal_belief_exemption": 250,
+    "rate": 0.01808841617827943
+  },
+  {
+    "classification": "Not affiliated with any denomination",
+    "schools": 129,
+    "students": 3408,
+    "personal_belief_exemption": 228,
+    "rate": 0.06690140845070422
+  },
+  {
+    "classification": "Baptist",
+    "schools": 58,
+    "students": 1332,
+    "personal_belief_exemption": 105,
+    "rate": 0.07882882882882883
+  },
+  {
+    "classification": "Lutheran",
+    "schools": 58,
+    "students": 1570,
+    "personal_belief_exemption": 85,
+    "rate": 0.054140127388535034
+  },
+  {
+    "classification": "Other/Interdenominational",
+    "schools": 39,
+    "students": 1004,
+    "personal_belief_exemption": 78,
+    "rate": 0.07768924302788845
+  },
+  {
+    "classification": "Pentecostal",
+    "schools": 39,
+    "students": 924,
+    "personal_belief_exemption": 34,
+    "rate": 0.0367965367965368
+  },
+  {
+    "classification": "Jewish",
+    "schools": 33,
+    "students": 1039,
+    "personal_belief_exemption": 68,
+    "rate": 0.06544754571703561
+  },
+  {
+    "classification": "Seventh-day Adventist",
+    "schools": 25,
+    "students": 478,
+    "personal_belief_exemption": 17,
+    "rate": 0.03556485355648536
+  },
+  {
+    "classification": "Calvary Chapel",
+    "schools": 19,
+    "students": 541,
+    "personal_belief_exemption": 61,
+    "rate": 0.11275415896487985
+  },
+  {
+    "classification": "Episcopal",
+    "schools": 18,
+    "students": 489,
+    "personal_belief_exemption": 31,
+    "rate": 0.06339468302658487
+  },
+  {
+    "classification": "Islamic",
+    "schools": 17,
+    "students": 363,
+    "personal_belief_exemption": 7,
+    "rate": 0.01928374655647383
+  },
+  {
+    "classification": "Evangelical",
+    "schools": 16,
+    "students": 536,
+    "personal_belief_exemption": 33,
+    "rate": 0.061567164179104475
+  },
+  {
+    "classification": "Reformed",
+    "schools": 9,
+    "students": 278,
+    "personal_belief_exemption": 13,
+    "rate": 0.046762589928057555
+  },
+  {
+    "classification": "Presbyterian",
+    "schools": 7,
+    "students": 148,
+    "personal_belief_exemption": 8,
+    "rate": 0.05405405405405406
+  },
+  {
+    "classification": "Church of Christ",
+    "schools": 5,
+    "students": 98,
+    "personal_belief_exemption": 5,
+    "rate": 0.05102040816326531
+  },
+  {
+    "classification": "Church of the Brethren",
+    "schools": 3,
+    "students": 124,
+    "personal_belief_exemption": 5,
+    "rate": 0.04032258064516129
+  },
+  {
+    "classification": "Mennonite",
+    "schools": 2,
+    "students": 50,
+    "personal_belief_exemption": 2,
+    "rate": 0.04
+  },
+  {
+    "classification": "Methodist",
+    "schools": 2,
+    "students": 31,
+    "personal_belief_exemption": 0,
+    "rate": 0
+  }
+]

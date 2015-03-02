@@ -1,0 +1,298 @@
+{
+  "is_religious": [
+    {
+      "classification": "Religious",
+      "schools": 955,
+      "students": 26234,
+      "personal_belief_exemption": 1030,
+      "rate": 0.03926202637798277
+    },
+    {
+      "classification": "Non-religious",
+      "schools": 430,
+      "students": 12059,
+      "personal_belief_exemption": 922,
+      "rate": 0.0764574176963264
+    }
+  ],
+  "by_keyword": [
+    {
+      "classification": "WALDORF",
+      "schools": 18,
+      "students": 661,
+      "personal_belief_exemption": 250,
+      "rate": 0.37821482602118
+    },
+    {
+      "classification": "TECHNOLOGY",
+      "schools": 20,
+      "students": 1366,
+      "personal_belief_exemption": 25,
+      "rate": 0.018301610541727673
+    },
+    {
+      "classification": "SCIENCE",
+      "schools": 40,
+      "students": 2559,
+      "personal_belief_exemption": 129,
+      "rate": 0.05041031652989449
+    },
+    {
+      "classification": "MONTESSORI",
+      "schools": 119,
+      "students": 3123,
+      "personal_belief_exemption": 205,
+      "rate": 0.06564201088696765
+    },
+    {
+      "classification": "INTERNATIONAL",
+      "schools": 30,
+      "students": 1279,
+      "personal_belief_exemption": 89,
+      "rate": 0.06958561376075059
+    },
+    {
+      "classification": "ARTS",
+      "schools": 44,
+      "students": 2917,
+      "personal_belief_exemption": 174,
+      "rate": 0.05965032567706548
+    },
+    {
+      "classification": "ALTERNATIVE",
+      "schools": 14,
+      "students": 622,
+      "personal_belief_exemption": 22,
+      "rate": 0.03536977491961415
+    }
+  ],
+  "religion": [
+    {
+      "classification": "Seventh-day Adventist",
+      "schools": 25,
+      "students": 478,
+      "personal_belief_exemption": 17,
+      "rate": 0.03556485355648536
+    },
+    {
+      "classification": "Roman Catholic",
+      "schools": 476,
+      "students": 13821,
+      "personal_belief_exemption": 250,
+      "rate": 0.01808841617827943
+    },
+    {
+      "classification": "Pentecostal",
+      "schools": 39,
+      "students": 924,
+      "personal_belief_exemption": 34,
+      "rate": 0.0367965367965368
+    },
+    {
+      "classification": "Other/Interdenominational",
+      "schools": 39,
+      "students": 1004,
+      "personal_belief_exemption": 78,
+      "rate": 0.07768924302788845
+    },
+    {
+      "classification": "Not affiliated with any denomination",
+      "schools": 129,
+      "students": 3408,
+      "personal_belief_exemption": 228,
+      "rate": 0.06690140845070422
+    },
+    {
+      "classification": "Lutheran",
+      "schools": 58,
+      "students": 1570,
+      "personal_belief_exemption": 85,
+      "rate": 0.054140127388535034
+    },
+    {
+      "classification": "Jewish",
+      "schools": 33,
+      "students": 1039,
+      "personal_belief_exemption": 68,
+      "rate": 0.06544754571703561
+    },
+    {
+      "classification": "Islamic",
+      "schools": 17,
+      "students": 363,
+      "personal_belief_exemption": 7,
+      "rate": 0.01928374655647383
+    },
+    {
+      "classification": "Evangelical",
+      "schools": 16,
+      "students": 536,
+      "personal_belief_exemption": 33,
+      "rate": 0.061567164179104475
+    },
+    {
+      "classification": "Episcopal",
+      "schools": 18,
+      "students": 489,
+      "personal_belief_exemption": 31,
+      "rate": 0.06339468302658487
+    },
+    {
+      "classification": "Calvary Chapel",
+      "schools": 19,
+      "students": 541,
+      "personal_belief_exemption": 61,
+      "rate": 0.11275415896487985
+    },
+    {
+      "classification": "Baptist",
+      "schools": 58,
+      "students": 1332,
+      "personal_belief_exemption": 105,
+      "rate": 0.07882882882882883
+    }
+  ],
+  "frpm": [
+    {
+      "classification": "81-100%",
+      "schools": 2140,
+      "students": 203830,
+      "personal_belief_exemption": 1228,
+      "rate": 0.006024628366776235
+    },
+    {
+      "classification": "61-80%",
+      "schools": 1131,
+      "students": 92548,
+      "personal_belief_exemption": 1597,
+      "rate": 0.01725591044647102
+    },
+    {
+      "classification": "41-60%",
+      "schools": 805,
+      "students": 64998,
+      "personal_belief_exemption": 2491,
+      "rate": 0.03832425613095788
+    },
+    {
+      "classification": "21-40%",
+      "schools": 767,
+      "students": 63892,
+      "personal_belief_exemption": 2904,
+      "rate": 0.045451699743316844
+    },
+    {
+      "classification": "0-20%",
+      "schools": 755,
+      "students": 65250,
+      "personal_belief_exemption": 2980,
+      "rate": 0.04567049808429119
+    }
+  ],
+  "public_private": [
+    {
+      "classification": "Private",
+      "schools": 1385,
+      "students": 38293,
+      "personal_belief_exemption": 1952,
+      "rate": 0.05097537408925913
+    },
+    {
+      "classification": "Public",
+      "schools": 5644,
+      "students": 493598,
+      "personal_belief_exemption": 11293,
+      "rate": 0.022878941973022583
+    }
+  ],
+  "charter": [
+    {
+      "classification": "Charter",
+      "schools": 577,
+      "students": 38977,
+      "personal_belief_exemption": 3246,
+      "rate": 0.08327988300792775
+    },
+    {
+      "classification": "Non-charter",
+      "schools": 5067,
+      "students": 454621,
+      "personal_belief_exemption": 8047,
+      "rate": 0.017700458183849844
+    }
+  ],
+  "every_school": [
+    {
+      "classification": 1,
+      "schools": 7029,
+      "students": 531891,
+      "personal_belief_exemption": 13245,
+      "rate": 0.024901718585198847
+    }
+  ],
+  "school_size": [
+    {
+      "classification": "200+",
+      "schools": 48,
+      "students": 11710,
+      "personal_belief_exemption": 500,
+      "rate": 0.04269854824935952
+    },
+    {
+      "classification": "176-200",
+      "schools": 88,
+      "students": 16231,
+      "personal_belief_exemption": 270,
+      "rate": 0.01663483457581172
+    },
+    {
+      "classification": "151-175",
+      "schools": 234,
+      "students": 37511,
+      "personal_belief_exemption": 947,
+      "rate": 0.025245927861160727
+    },
+    {
+      "classification": "126-150",
+      "schools": 516,
+      "students": 69984,
+      "personal_belief_exemption": 1003,
+      "rate": 0.014331847279378144
+    },
+    {
+      "classification": "101-125",
+      "schools": 1050,
+      "students": 117241,
+      "personal_belief_exemption": 2074,
+      "rate": 0.017690057232538105
+    },
+    {
+      "classification": "76-100",
+      "schools": 1487,
+      "students": 129973,
+      "personal_belief_exemption": 2619,
+      "rate": 0.020150338916544205
+    },
+    {
+      "classification": "51-75",
+      "schools": 1282,
+      "students": 80747,
+      "personal_belief_exemption": 2291,
+      "rate": 0.02837257111719321
+    },
+    {
+      "classification": "26-50",
+      "schools": 628,
+      "students": 24741,
+      "personal_belief_exemption": 1112,
+      "rate": 0.04494563679721919
+    },
+    {
+      "classification": "1-25",
+      "schools": 311,
+      "students": 5460,
+      "personal_belief_exemption": 477,
+      "rate": 0.08736263736263736
+    }
+  ]
+}

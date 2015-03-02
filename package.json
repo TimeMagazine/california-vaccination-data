@@ -1,0 +1,30 @@
+{
+  "name": "california-vaccination-data",
+  "version": "0.0.1",
+  "description": "Node scripts for organizing and analyzing vaccination data for California Kindergarteners.",
+  "main": "import.js",
+  "dependencies": {
+    "minimist": "^1.1.0",
+    "mongodb": "^1.4.32",
+    "node-geocoder": "^2.16.1",
+    "node-stream-csv": "0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TimeMagazine/california-vaccination-data"
+  },
+  "keywords": [
+    "california",
+    "vaccines"
+  ],
+  "author": "Chris Wilson, Pratheek Rebala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TimeMagazine/california-vaccination-data/issues"
+  },
+  "homepage": "https://github.com/TimeMagazine/california-vaccination-data"
+}
