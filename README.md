@@ -11,6 +11,9 @@ Yes, while you should always check our work, these scripts use data in the publi
 
 No problem. Would you like [JSON](/data/json/california_vaccine_data.json) or [CSV](/data/csv/california_vaccine_data.csv)?
 
+##Are you interested in my own analysis of the data?
+Absolutely! Feel free to open issues, submit PRs, or fire a note to Chris Wilson at <mailto:chris.wilson@time.com>. We would love to publish your own insights (with full credit and consultation, of course).
+
 ##Actually, I'd like to recreate this data from scratch.
 
 Great! The Excel files in `/raw/` are unmodified from the source. The CSV files in `/formatted/` are hand-modified to get rid of nasty Excel formatting and ungainly joined columns but are otherwise unchanged.
